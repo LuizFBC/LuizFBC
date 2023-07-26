@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 -->
   <div style="width: 200px;">
     <a href="https://github.com/LuizFBC/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFBC&langs_count=8" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFBC&langs_count=8&layout=compact" alt="Top Langs" />
+    </a>
+  </div>
+  <div>
+    <a href="https://www.linkedin.com/in/luiz-fernando-bc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
   </div>
